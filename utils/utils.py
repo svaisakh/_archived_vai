@@ -1,10 +1,10 @@
-import matplotlib.pyplot as plt
+'''import matplotlib.pyplot as plt
 import numpy as np
 #import tensorflow as tf
 #from tensorflow.examples.tutorials.mnist.input_data import read_data_sets
 from time import time
 from tqdm import tqdm_notebook
-from seaborn import kdeplot, rugplot
+from seaborn import kdeplot, rugplot'''
 
 def rect_factors(number):
     square_root = int(np.sqrt(number))
